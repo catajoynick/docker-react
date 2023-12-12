@@ -15,9 +15,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          hello from the other side.
         </a>
       </header>
+
+      <main>
+        <h1>Down with the wewness</h1>
+      </main>
     </div>
   );
 }
