@@ -15,7 +15,7 @@ deploy:
   app: docker-react-frontend
   env: Docker-react-frontend-env
   bucket_name: elasticbeanstalk-ap-southeast-1-527683503049
-  bucket_path: Docker-react
+  bucket_path: docker-react
   on:
     branch: master
 
